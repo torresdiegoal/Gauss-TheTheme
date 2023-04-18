@@ -1,0 +1,21 @@
+{
+  "name": "Gauss-TheTheme",
+  "displayName": "Gauss Theme",
+  "description": "Delightful colors associated with maths and statistics (Personal opinion).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gauss-TheTheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Gauss-TheTheme-color-theme.json"
+      }
+    ]
+  }
+}
