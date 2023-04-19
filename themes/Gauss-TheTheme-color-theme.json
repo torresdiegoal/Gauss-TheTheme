@@ -452,7 +452,7 @@
 		{
 			"scope": "keyword.operator.logical",
 			"settings": {
-				"foreground": "#fb4934"
+				"foreground": "#11520c"
 			}
 		},
 		{
