@@ -774,7 +774,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"fontStyle": "normal"
+				"fontStyle": "bold"
 			}
 		},
 		// HTML / XML ----------------------------------------
