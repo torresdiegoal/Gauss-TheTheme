@@ -1,8 +1,8 @@
 {
   "name": "Gauss-TheTheme",
   "displayName": "Gauss Theme",
-  "description": "Delightful colors associated with maths and statistics (Personal opinion).",
-  "version": "0.0.5",
+  "description": "Delightful colors associated with maths and statistics, and because my dog's name is Gauss.",
+  "version": "0.0.7",
   "publisher": "GaussTheTheme",
   "repository": {
     "type": "git",

@@ -452,7 +452,7 @@
 		{
 			"scope": "keyword.operator.logical",
 			"settings": {
-				"foreground": "#11520c"
+				"foreground": "#33ac2b"
 			}
 		},
 		{
@@ -995,12 +995,12 @@
 		"progressBar.background": "#689d6a",
 		// LISTS AND TREES
 		"list.activeSelectionBackground": "#3c383680",
-		"list.activeSelectionForeground": "#817cc0",
+		"list.activeSelectionForeground": "#98c0b3",
 		"list.hoverBackground": "#3c383680",
 		"list.hoverForeground": "#d5c4a1",
 		"list.focusBackground": "#3c3836",
 		"list.focusForeground": "#ebdbb2",
-		"list.inactiveSelectionForeground": "#98c0b3",
+		"list.inactiveSelectionForeground": "#588f7e",
 		"list.inactiveSelectionBackground": "#3c383680",
 		"list.dropBackground": "#3c3836",
 		"list.highlightForeground": "#689d6a",
